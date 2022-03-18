@@ -1,0 +1,39 @@
+.imagename{
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    font-style: oblique;
+}
+#topic{
+    font-size: larger;
+    font-weight: bolder;
+    color:brown;
+    text-align: center;
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+
+ .mine {
+    width:450px;
+    height:auto;
+    object-fit: cover;
+    object-position: bottom;
+}
+
+.image{
+    width:100%;
+    height:320px;
+    object-fit: cover;
+    object-position: top;  
+}
+.klas{
+    width:100%;
+    height:300px;
+    object-fit: cover;
+    object-position: top; 
+}
+
+img:hover{
+    box-shadow: 0 0 3px 3px grey;
+}
